@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://higanworks.github.io/octopress/sitemap.xml 
+Sitemap: http://higanworks.github.io/sitemap.xml 

@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://higanworks.github.io/octopress/blog/archives/</loc>
+        <loc>http://higanworks.github.io/blog/archives/</loc>
         <lastmod>2013-05-21T23:18:10+09:00</lastmod>
     </url>
     <url>
-        <loc>http://higanworks.github.io/octopress/</loc>
+        <loc>http://higanworks.github.io/</loc>
         <lastmod>2013-05-21T23:18:10+09:00</lastmod>
     </url>
     <url>
-        <loc>http://higanworks.github.io/octopress/</loc>
+        <loc>http://higanworks.github.io/</loc>
         <lastmod>2013-05-21T23:18:10+09:00</lastmod>
     </url>
     <url>
-        <loc>http://higanworks.github.io/octopress/robots.txt</loc>
+        <loc>http://higanworks.github.io/robots.txt</loc>
         <lastmod>2013-05-21T22:49:21+09:00</lastmod>
     </url>
     <url>
-        <loc>http://higanworks.github.io/octopress/sponsors/</loc>
+        <loc>http://higanworks.github.io/sponsors/</loc>
         <lastmod>2013-05-21T23:18:10+09:00</lastmod>
     </url>
 </urlset>
