@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[HignaWorks LLC]]></title>
+  <link href="http://higanworks.github.io/octopress/atom.xml" rel="self"/>
+  <link href="http://higanworks.github.io/octopress/"/>
+  <updated>2013-05-22T15:45:32+09:00</updated>
+  <id>http://higanworks.github.io/octopress/</id>
+  <author>
+    <name><![CDATA[HiganWorks LLC]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
